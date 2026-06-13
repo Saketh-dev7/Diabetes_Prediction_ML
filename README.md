@@ -174,13 +174,19 @@ jupyter notebook Diabetes_Prediction_ML_Project.ipynb
 ## 📁 Project Structure
 
 ```
-diabetes-prediction-ml/
+
+Diabetes_Prediction_ML/
 │
-├── 📓 Diabetes_Prediction_ML_Project.ipynb   # Main notebook (EDA + Models)
-├── 📊 outcome_distribution.png               # Class distribution plot
-├── 🔥 correlation_heatmap.png                # Feature correlation heatmap
-├── 🟦 confusion_matrix.png                   # Model evaluation matrix
-└── 📄 README.md                              # Project documentation
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── Diabetes_Prediction_ML_Project.ipynb
+│
+└── images/
+    ├── diabetes_dataset.png
+    ├── diabetes_heatmap.png
+    └── diabetes_prediction.png
 ```
 
 ---
