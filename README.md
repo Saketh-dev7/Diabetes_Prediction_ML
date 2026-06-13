@@ -17,7 +17,7 @@
 
 <br/>
 
-![Outcome Distribution](outcome_distribution.png)
+![Datasets](images/diabetes_dataset.png)
 
 </div>
 
@@ -123,9 +123,9 @@ Raw Data  →  EDA  →  Preprocessing  →  Model Training  →  Evaluation  �
 
 <div align="center">
 
-| Outcome Distribution | Correlation Heatmap | Confusion Matrix |
+| Datasets| Correlation Heatmap | Diabetic prediction|
 |:---:|:---:|:---:|
-| ![Outcome Distribution](outcome_distribution.png) | ![Correlation Heatmap](correlation_heatmap.png) | ![Confusion Matrix](confusion_matrix.png) |
+| ![Datasets](images/diabetes_dataset.png) | ![Correlation Heatmap](images/diabetes_heatmap.png) | ![Diabetic prediction](images/diabetes_prediction.png) |
 
 </div>
 
@@ -155,7 +155,7 @@ Raw Data  →  EDA  →  Preprocessing  →  Model Training  →  Evaluation  �
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/diabetes-prediction-ml.git
+git clone https://github.com/Saketh-dev7/Diabetes-prediction-ml.git
 cd diabetes-prediction-ml
 ```
 
@@ -213,11 +213,11 @@ diabetes-prediction-ml/
 
 <div align="center">
 
-**Your Name**
+**SAKETH**
 *Machine Learning Enthusiast | Engineering Student*
 
-[![GitHub](https://img.shields.io/badge/GitHub-@yourusername-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-@yourusername-181717?style=for-the-badge&logo=github)](https://github.com/Saketh-dev7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sakethjakkula-dev)
 
 </div>
 
